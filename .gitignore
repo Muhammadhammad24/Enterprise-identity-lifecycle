@@ -1,9 +1,32 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Envs
+venv/
+.venv/
+.env
+.env.*
+
+# Test & coverage
 .pytest_cache/
 .coverage
+coverage.xml
 htmlcov/
-.env
-venv/
+
+# IDE/OS
 .vscode/
-logs/*.log
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Misc
+*.swp
