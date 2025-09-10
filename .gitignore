@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+ECHO is off.
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+ECHO is off.
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+ECHO is off.
+# Envs
+.env
+.venv
+venv/
+env/
+ECHO is off.
+# IDE
+.vscode/
+.idea/
+ECHO is off.
+# Project specific
+logs/
+data/
+config/*.conf
+config/*.json
+!config/*.template.*
+*.log
+ECHO is off.
+# OS
+Thumbs.db
