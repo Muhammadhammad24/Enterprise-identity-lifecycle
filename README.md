@@ -493,3 +493,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If this project has helped your organization, please consider starring it to help others discover it!**
 
 *Made with ❤️ for the global technology community*
+Open-source identity management automation platform
+Open-source identity management automation platform
+Open-source identity management automation platform

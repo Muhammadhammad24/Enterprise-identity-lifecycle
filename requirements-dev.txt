@@ -1,2 +1,6 @@
--r requirements.txt
-pytest>=6.0.0
+pytest
+pytest-cov
+pytest-mock
+requests-mock
+black
+flake8
